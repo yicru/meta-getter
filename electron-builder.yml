@@ -1,0 +1,12 @@
+appId: me.yicru.meta-getter
+productName: Meta Getter
+copyright: Copyright © 2020 Yuichiro Miyamae
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
